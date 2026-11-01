@@ -6,7 +6,7 @@
 <li><a href="https://docs.google.com/spreadsheets/d/1ahEFQDoO9m3FG4qzxsxBX1SYMiBAaeh0Vid4A5tSu-M/copy" target="_blank" rel="noreferrer">Copy the verified sheet-db template</a>. Name the copy <strong>Timeslot database</strong>. The template already contains the connector source; no script installation is needed.</li>
 <li>In your new copy, choose <strong>sheet-db → Set up public Forms POC</strong>. Approve Google permissions and the public-access prompt. If consent interrupts setup, choose the menu action again. It creates a new Form and background trigger for this copy.</li>
 <li>Copy the complete connection JSON from the dialog. Use this new JSON, rather than the original template's connection details.</li>
-<li>Open Timeslot, then <strong>Connection → Connect database</strong>. Paste the JSON and connect. Check that the displayed database is <strong>Timeslot database</strong>, then choose <strong>Use this Sheet</strong>. Timeslot creates its own settings, slots and bookings tables.</li>
+<li>Open Timeslot, then <strong>burger menu → Connect database</strong>. Paste the JSON and connect. Check that the displayed database is <strong>Timeslot database</strong>, then choose <strong>Use this Sheet</strong>. Timeslot creates its own settings, slots and bookings tables.</li>
 <li>Close the Sheet and Apps Script tabs. Open <strong>Schedule</strong>, choose a date and timezone, and create the schedule. In <strong>All slots</strong>, book 09:00 with a dummy name, refresh to check it persisted, and cancel it.</li>
 <li>Reload Timeslot. It should reconnect using saved details and retain the schedule. On your phone, open the same hosted Timeslot app and paste this database's JSON once. Check booking, cancellation and return visits there yourself.</li>
 </ol>
