@@ -1,0 +1,26 @@
+{
+  "version": 4,
+  "assets": "https://yissok.github.io/timeslot-dist/releases/d76bbb642832426a6351819d96e28c3fc528d675-41285453584-1",
+  "app": "timeslot",
+  "global": "__sveltekit_1twhn4q",
+  "start": "_app/immutable/entry/start.3Kptqb5O.js",
+  "appEntry": "_app/immutable/entry/app.Dvlabv2q.js",
+  "styles": [],
+  "scripts": [],
+  "preloads": [
+    "https://yissok.github.io/timeslot-dist/releases/d76bbb642832426a6351819d96e28c3fc528d675-41285453584-1/_app/immutable/entry/start.3Kptqb5O.js",
+    "https://yissok.github.io/timeslot-dist/releases/d76bbb642832426a6351819d96e28c3fc528d675-41285453584-1/_app/immutable/chunks/BBbbSHWE.js",
+    "https://yissok.github.io/timeslot-dist/releases/d76bbb642832426a6351819d96e28c3fc528d675-41285453584-1/_app/immutable/chunks/DrlaJAek.js",
+    "https://yissok.github.io/timeslot-dist/releases/d76bbb642832426a6351819d96e28c3fc528d675-41285453584-1/_app/immutable/chunks/D95BZd61.js",
+    "https://yissok.github.io/timeslot-dist/releases/d76bbb642832426a6351819d96e28c3fc528d675-41285453584-1/_app/immutable/entry/app.Dvlabv2q.js",
+    "https://yissok.github.io/timeslot-dist/releases/d76bbb642832426a6351819d96e28c3fc528d675-41285453584-1/_app/immutable/chunks/DclI9HSt.js",
+    "https://yissok.github.io/timeslot-dist/releases/d76bbb642832426a6351819d96e28c3fc528d675-41285453584-1/_app/immutable/chunks/I-Wihs7y.js",
+    "https://yissok.github.io/timeslot-dist/releases/d76bbb642832426a6351819d96e28c3fc528d675-41285453584-1/_app/immutable/chunks/C2UKwed4.js",
+    "https://yissok.github.io/timeslot-dist/releases/d76bbb642832426a6351819d96e28c3fc528d675-41285453584-1/_app/immutable/chunks/BCKk4Ihj.js",
+    "https://yissok.github.io/timeslot-dist/releases/d76bbb642832426a6351819d96e28c3fc528d675-41285453584-1/_app/immutable/nodes/0.BdlIh10f.js"
+  ],
+  "social": {
+    "title": "Timeslot",
+    "description": "An interactive website created with Project Factory."
+  }
+}
